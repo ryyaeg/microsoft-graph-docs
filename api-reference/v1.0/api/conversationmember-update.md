@@ -11,7 +11,6 @@ ms.prod: "microsoft-teams"
 
 Namespace: microsoft.graph
 
-[!INCLUDE [V1.0-disclaimer](../../includes/V1.0-disclaimer.md)]
 
 Update the role of a [conversationMember](../resources/conversationmember.md) in a 
 [team](../resources/team.md).
